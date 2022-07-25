@@ -1,1 +1,1 @@
-web:guniorn api_endpoint:app
+web: guniorn api_endpoint:app
